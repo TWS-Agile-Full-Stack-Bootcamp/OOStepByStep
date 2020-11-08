@@ -1,6 +1,6 @@
-namespace Dotnet_project_template_test
+namespace OOStepByStepTest
 {
-    using Dotnet_project_template;
+    using OOStepByStep;
     using Xunit;
 
     public class UnitTest1
